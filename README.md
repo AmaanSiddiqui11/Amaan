@@ -1,3 +1,6 @@
+
+![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmaanSiddiqui11&show_icons=true&theme=tokyonight)
+
 # 👋 Hi, I'm Amaan Siddiqui!
 
 🎯 **Android Developer | Kotlin Enthusiast | UI Designer**
