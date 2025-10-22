@@ -1,5 +1,5 @@
 
-![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmaanSiddiqui11&show_icons=true&theme=tokyonight)
+
 
 # 👋 Hi, I'm Amaan Siddiqui!
 
@@ -32,6 +32,9 @@ I'm passionate about crafting seamless, user-focused mobile apps using modern An
 | 📸 **Instagram Clone** | UI-focused clone with Reels, Stories & Profile features. | Kotlin, UI/UX, RecyclerView |
 
 ---
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AmaanSiddiqui11&theme=highcontrast)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmaanSiddiqui11&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 🌐 Connect with Me
 <p align="center">
